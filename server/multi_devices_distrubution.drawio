@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T13:17:25.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="BWQUx6hm3jN7a-3PBJls" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T13:20:27.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="FhO6l9PmNTwjUjTeMzWV" version="22.0.4" type="github">
   <diagram name="第 1 页" id="L6CAdKAnMDqST6A49EDl">
-    <mxGraphModel dx="1524" dy="888" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1524" dy="888" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="x9rlm5nATpEYyQ1cxy3P-56" value="WD12" style="sketch=0;outlineConnect=0;fontColor=#3e2823;gradientColor=none;fillColor=#f49e0b;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1055" y="383.68999999999994" width="27.71" height="52.71" as="geometry" />
         </mxCell>
-        <mxCell id="x9rlm5nATpEYyQ1cxy3P-57" value="WD16" style="sketch=0;outlineConnect=0;gradientColor=none;fillColor=#166ee9;strokeColor=#6c8ebf;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="x9rlm5nATpEYyQ1cxy3P-57" value="WD17" style="sketch=0;outlineConnect=0;gradientColor=none;fillColor=#166ee9;strokeColor=#6c8ebf;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="342.45" y="664" width="27.06" height="51.5" as="geometry" />
         </mxCell>
         <mxCell id="x9rlm5nATpEYyQ1cxy3P-60" value="WD2" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/devices-42/512/Watch-128.png;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" parent="1" vertex="1">
@@ -53,7 +53,7 @@
           <mxGeometry x="577.62" y="204" width="74.64" height="74.64" as="geometry" />
         </mxCell>
         <mxCell id="x9rlm5nATpEYyQ1cxy3P-63" value="WD14" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/devices-42/512/Watch-128.png;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="645" y="630.0000000000001" width="78.88" height="78.88" as="geometry" />
+          <mxGeometry x="680" y="636.6200000000001" width="78.88" height="78.88" as="geometry" />
         </mxCell>
         <mxCell id="x9rlm5nATpEYyQ1cxy3P-29" value="WD4" style="sketch=0;outlineConnect=0;gradientColor=none;fillColor=#0a6cf5;strokeColor=#0e71fb;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.camera;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="335.28" y="361" width="41.4" height="41.4" as="geometry" />
@@ -62,12 +62,12 @@
           <mxGeometry x="350.47" y="91" width="22" height="52.81" as="geometry" />
         </mxCell>
         <mxCell id="z01HdwhIdTVGVkIfFdXQ-2" value="WD15" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.citrix.cell_phone;fillColor=#fad7ac;strokeColor=#b46504;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="567" y="550" width="24.1" height="57.87" as="geometry" />
+          <mxGeometry x="563.34" y="518" width="24.1" height="57.87" as="geometry" />
         </mxCell>
         <mxCell id="z01HdwhIdTVGVkIfFdXQ-3" value="WD3" style="sketch=0;outlineConnect=0;gradientColor=none;fillColor=#e8179b;strokeColor=#996185;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="155" y="364" width="21.75" height="41.4" as="geometry" />
         </mxCell>
-        <mxCell id="z01HdwhIdTVGVkIfFdXQ-5" value="WD7" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.citrix.cell_phone;fillColor=#fad7ac;strokeColor=#b46504;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="z01HdwhIdTVGVkIfFdXQ-5" value="WD18" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.citrix.cell_phone;fillColor=#fad7ac;strokeColor=#b46504;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="163" y="527" width="23.79" height="57.13" as="geometry" />
         </mxCell>
         <mxCell id="z01HdwhIdTVGVkIfFdXQ-7" value="WD5" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/devices-42/512/Watch-128.png;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="z01HdwhIdTVGVkIfFdXQ-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;HAP4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#010713;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="820.6099999999999" y="630" width="79.6" height="29.4" as="geometry" />
+        </mxCell>
+        <mxCell id="z01HdwhIdTVGVkIfFdXQ-23" value="WD16" style="sketch=0;outlineConnect=0;gradientColor=none;fillColor=#f90be5;strokeColor=#e60a0a;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.camera;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="554.6899999999999" y="667.48" width="41.4" height="41.4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
