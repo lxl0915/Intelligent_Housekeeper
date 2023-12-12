@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T05:56:39.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Cw7dIDiKlUG_TTWHWmWz" version="22.1.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-12T06:55:49.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="QAgsx0PVfkCxPf3bpqF-" version="22.1.7" type="github" pages="11">
   <diagram name="第 1 页" id="L6CAdKAnMDqST6A49EDl">
-    <mxGraphModel dx="1524" dy="854" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
+    <mxGraphModel dx="568" dy="317" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1097,7 +1097,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oj8SLIYaRZGJCXxx5irv" name="第 6 页">
-    <mxGraphModel dx="1764" dy="854" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="568" dy="317" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1567,7 +1567,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ofDE6yGNBFvcp_EFL1YN" name="第 7 页">
-    <mxGraphModel dx="1764" dy="854" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1136" dy="634" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1653,7 +1653,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vVZjg02r9eDnYtaJj4H6" name="第 8 页">
-    <mxGraphModel dx="1524" dy="854" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1136" dy="634" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2080,7 +2080,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1vdkNZr6flqyxYij8pB2" name="第 9 页">
-    <mxGraphModel dx="1270" dy="712" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="568" dy="317" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2610,6 +2610,68 @@
         </mxCell>
         <mxCell id="HPORVh11fHdi6kQdTWpS-148" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;能量流&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="101" y="643.06" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="y8ZRNUzjLTjlykNSx4zh" name="第 11 页">
+    <mxGraphModel dx="811" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6Qivu4y07RXY0pwS7DPO-18" value="面向无线供能边缘移动网络的大规模异构任务调度方法研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="40" width="232" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qivu4y07RXY0pwS7DPO-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="164" width="200" height="266" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qivu4y07RXY0pwS7DPO-20" value="设备与信道模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="228.5" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qivu4y07RXY0pwS7DPO-21" value="系统模型建立" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="188" y="180" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qivu4y07RXY0pwS7DPO-22" value="计算模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="230" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qivu4y07RXY0pwS7DPO-23" value="任务模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="230" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qivu4y07RXY0pwS7DPO-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="167" width="222" height="263" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qivu4y07RXY0pwS7DPO-33" value="基于延迟敏感性任务比例加权平均的选择算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="231.5" width="58" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qivu4y07RXY0pwS7DPO-34" value="异构HAP选择" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="522" y="180" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qivu4y07RXY0pwS7DPO-36" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;综合考虑&lt;span style=&quot;&quot;&gt;时变信道增益、任务异构延迟要求、&lt;/span&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;HAP&lt;/span&gt;&lt;span style=&quot;&quot;&gt;发射功率和计算能力&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="592" y="233" width="88" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qivu4y07RXY0pwS7DPO-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="169" width="210" height="261" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qivu4y07RXY0pwS7DPO-42" value="设计卸载决策算法，做出任务卸载决策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="235" width="64" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qivu4y07RXY0pwS7DPO-43" value="卸载决策和时间资源分配" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="839" y="185" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qivu4y07RXY0pwS7DPO-44" value="设计一维时间资源变量优化算法，给出时间资源分配方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="909" y="235" width="71" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qivu4y07RXY0pwS7DPO-46" value="仿真实验，在多时隙内反复迭代优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="500" width="232" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qivu4y07RXY0pwS7DPO-47" value="完成构建多MD多HAP的WP-MEC&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;系统模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="183" y="360" width="120" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qivu4y07RXY0pwS7DPO-49" value="适用于WP-MEC&lt;span style=&quot;border-color: var(--border-color); color: rgb(51, 51, 51); font-family: Verdana;&quot;&gt;网络的异构&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(51, 51, 51); font-family: Verdana;&quot; lang=&quot;EN-US&quot;&gt;HAP&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(51, 51, 51); font-family: Verdana;&quot;&gt;选择策略&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="517" y="360" width="120" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6Qivu4y07RXY0pwS7DPO-50" value="适用于WP-MEC&lt;span style=&quot;border-color: var(--border-color); color: rgb(51, 51, 51); font-family: Verdana;&quot;&gt;网络的&lt;/span&gt;卸载决策算法和时间资源分配算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="834" y="360" width="120" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
